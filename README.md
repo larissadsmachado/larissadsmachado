@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larissadsmachado" alt="larissadsmachado" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Linux**
-
-- 💬 Ask me about **Python and Linux**
+- 🌱 I’m currently learning **JavaScript and React**
 
 - 📫 How to reach me **larissadsmachado0@gmail.com**
 
